@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url(bg3.jpg);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.affichage{
+  background-color: rgba(245, 245, 245, 0);
+  width: 400px;
+  height: 115px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.btn{
+  width: 400px;
+  margin-top: 5px;
+}
+
+.affichage1{
+  width: 400px;
+  height: 115px;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1{
+  margin-top: 50px;
+  text-align: center;
+}
+.text{
+  text-align: center;
+}
+
+.container{
+  width: 1225px;
+  height: 400px;
+  background-color:rgba(7, 20, 44, 0);
+  margin-top: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  display: flex;
+}
+
+.card{
+  background-color: rgba(216, 217, 218, 0.527);
+  width: 350px;
+  height: 350px;
+  margin-left: auto;
+  margin: auto;
+}
+
+.souscontainr{
+  text-align: center;
+  font-size: 30px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.Title{
+  font-size: 60px;
+}
+
+.icon{
+  width: 40px;
+  height: 40px;
+  background-color: slategray;
+  margin-left: auto;
+  margin-right: auto;
+}
